@@ -5,6 +5,6 @@ public class Puppy {
     }
     public static void main(final String[] args) {
         // Following statement would create an object myPuppy
-        final Puppy myPuppy = new Puppy("tommy page");
+        final Puppy myPuppy = new Puppy("tommy page macbook");
     }
 }
